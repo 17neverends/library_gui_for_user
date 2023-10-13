@@ -25,10 +25,6 @@ Picture 2 - Notification about users meets
 <br>
 
 
-
-
-
-
 ![alt text](https://github.com/17neverends/library_gui_for_user/blob/main/изображение_2023-10-13_161347444.png)
 <br>
 Picture 3 - Comment
@@ -43,9 +39,14 @@ Picture 3 - Comment
 ![alt text](https://github.com/17neverends/library_gui_for_user/blob/main/изображение_2023-10-13_161402282.png)
 <br>
 Picture 4 - Succesfull 
+<br>
+<br>
+<br>
+<br>
 
 
 
 
 ![alt text](https://github.com/17neverends/library_gui_for_user/blob/main/изображение_2023-10-13_161448085.png)
+<br>
 Picture 5 - User's log's
